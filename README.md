@@ -1,6 +1,6 @@
 # PFAS-AEDL
 
-This is the code for "Adaptive Evidential Deep Learning Framework for Predicting PFAS Environmental Transport Properties" paper.
+This is the code for the paper "Adaptive Evidential Deep Learning Framework for Predicting PFAS Environmental Transport Properties" ((DOI: 10.11949/0438-1157.20251172)).
 
 ## Directory Structure
 
