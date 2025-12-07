@@ -140,7 +140,7 @@ python train.py \
 
 ### Benchmarking Multiple Methods
 ```bash
-python_get_bench.py [config.json]
+python get_bench.py [config.json]
 ```
 ## ML
 ```bash
