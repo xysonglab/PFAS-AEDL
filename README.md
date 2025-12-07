@@ -134,8 +134,7 @@ python train.py \
   --use_adaptive_reg True \
   --use_robust_loss True \
   --use_calibration True \
-  --regularizer_coeff 0.2 \
-  --
+  --regularizer_coeff 0.2 
 ```
 
 ### Benchmarking Multiple Methods
